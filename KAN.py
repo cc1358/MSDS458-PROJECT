@@ -1,4 +1,4 @@
-pip install torch torchvision pykan
+
 
 import torch
 import torchvision
