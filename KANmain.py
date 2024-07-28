@@ -4,6 +4,8 @@ import os
 import torch
 from torch.utils.data import TensorDataset, DataLoader
 from torchvision import transforms
+from pykan import KANConv2DLayer, BSplineActivation, PolynomialActivation, RBFActivation, WaveletActivation
+
 
 def unpickle(file):
     with open(file, 'rb') as fo:
