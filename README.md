@@ -16,12 +16,3 @@ All wrapped in a KAN-style CNN that makes ResNet look basic.
 
 ---
 
-📊 Results (Spoiler Alert!)
-
-Activation	Accuracy	Runtime	Cool Factor
-B-Spline	72.3%	2:30	██████░░░░
-Cubic Spline	74.1%	2:45	████████░░
-Swish	75.8%	2:10	██████▓▓░░
-Wavelet	69.2%	3:15	████▒▒░░░░
-Actual results may vary based on how much coffee your GPU had
-
